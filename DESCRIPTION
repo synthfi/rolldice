@@ -1,0 +1,4 @@
+rolls virtual dice.
+
+The dice strings passed on the command line contain information on the dice to roll in a format comparable to the format used in
+most role playing games.
